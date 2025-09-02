@@ -1,6 +1,7 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "release_notes": "Esta es la primera versión de la aplicación.",
   "download_url_installer": "AQUI_IRA_EL_ENLACE_A_TU_EXE",
   "download_url_updater": "AQUI_IRA_EL_ENLACE_A_TU_UPDATER_EXE"
+
 }
