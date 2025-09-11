@@ -1,9 +1,10 @@
 {
   "latest_version": "1.0.1",
-  "release_notes": "DISFRUTA DIAMOND JEWELRY PRO.",
-  "download_url_installer": "AQUI_IRA_EL_ENLACE_A_TU_EXE",
-  "download_url_updater": "AQUI_IRA_EL_ENLACE_A_TU_UPDATER_EXE"
+  "release_notes": "Se añadieron nuevos sistemas como Fichaje, QR, Notificaciones, Metas y mejoras en la IA.",
+  "download_url_installer": "https://github.com/ivanestebangeminis-star/Diamond/releases/download/v1.0.1/Diamond.Jewelry.exe",
+  "download_url_updater": "https://github.com/ivanestebangeminis-star/Diamond/releases/download/v1.0.1/updater.exe"
 
 }
+
 
 
